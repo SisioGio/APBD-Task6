@@ -1,0 +1,26 @@
+.table-shower{
+    padding: 5rem;;
+    display: grid;
+    align-items: center;
+  grid-template-columns: repeat(auto-fit, max(240px, 240px));
+    gap: 3rem;
+}
+  
+
+.table{
+    background-color: antiquewhite;
+    aspect-ratio: 1;
+    border-radius: 24px;
+    display: block;
+    line-height: 240px;
+    list-style: none;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+body {text-align: center;}
+form{
+
+  display:inline-block;
+  margin: auto;
+}

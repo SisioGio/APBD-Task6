@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <%- include('../partials/head'); %>
+</head>
+<body class="container">
+
+<header>
+  <%- include('../partials/header'); %>
+</header>
+<div class="spacerXL">
+   
+</div>
+<main>
+  <h1>All tables are displayed here</h1>
+
+  <h5>Tables are added aumatically in this view</h5>
+  <form class="table-shower" action="table" method="POST">
+    <% tables.forEach(function(table) { %>
+
+      
+
+      <button type="submit" class="table" name="table" value=<%= table.Tables_in_TIN %>>
+
+        <%= table.Tables_in_TIN %>
+      </button>
+    
+
+     
+      
+    <%});%>
+
+  </form>
+    
+    
+
+</main>
+
+<footer>
+  <%- include('../partials/footer'); %>
+</footer>
+
+</body>
+</html>
