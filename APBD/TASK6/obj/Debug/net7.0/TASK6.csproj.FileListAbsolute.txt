@@ -1,0 +1,15 @@
+/home/alessio/Documents/APBD/TASK6/obj/Debug/net7.0/TASK6.csproj.AssemblyReference.cache
+/home/alessio/Documents/APBD/TASK6/obj/Debug/net7.0/TASK6.GeneratedMSBuildEditorConfig.editorconfig
+/home/alessio/Documents/APBD/TASK6/obj/Debug/net7.0/TASK6.AssemblyInfoInputs.cache
+/home/alessio/Documents/APBD/TASK6/obj/Debug/net7.0/TASK6.AssemblyInfo.cs
+/home/alessio/Documents/APBD/TASK6/obj/Debug/net7.0/TASK6.csproj.CoreCompileInputs.cache
+/home/alessio/Documents/APBD/TASK6/bin/Debug/net7.0/TASK6
+/home/alessio/Documents/APBD/TASK6/bin/Debug/net7.0/TASK6.deps.json
+/home/alessio/Documents/APBD/TASK6/bin/Debug/net7.0/TASK6.runtimeconfig.json
+/home/alessio/Documents/APBD/TASK6/bin/Debug/net7.0/TASK6.dll
+/home/alessio/Documents/APBD/TASK6/bin/Debug/net7.0/TASK6.pdb
+/home/alessio/Documents/APBD/TASK6/obj/Debug/net7.0/TASK6.dll
+/home/alessio/Documents/APBD/TASK6/obj/Debug/net7.0/refint/TASK6.dll
+/home/alessio/Documents/APBD/TASK6/obj/Debug/net7.0/TASK6.pdb
+/home/alessio/Documents/APBD/TASK6/obj/Debug/net7.0/TASK6.genruntimeconfig.cache
+/home/alessio/Documents/APBD/TASK6/obj/Debug/net7.0/ref/TASK6.dll
